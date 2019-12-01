@@ -1,0 +1,200 @@
+mass: 74099
+ - fuel: 37016
+mass: 50130
+ - fuel: 62050
+mass: 81867
+ - fuel: 102952
+mass: 55356
+ - fuel: 130600
+mass: 73088
+ - fuel: 167113
+mass: 73706
+ - fuel: 203933
+mass: 55902
+ - fuel: 231854
+mass: 113399
+ - fuel: 288521
+mass: 129578
+ - fuel: 353276
+mass: 78051
+ - fuel: 392269
+mass: 117663
+ - fuel: 451068
+mass: 137454
+ - fuel: 519762
+mass: 66285
+ - fuel: 552874
+mass: 115389
+ - fuel: 610535
+mass: 50547
+ - fuel: 635780
+mass: 51588
+ - fuel: 661543
+mass: 115792
+ - fuel: 719405
+mass: 91085
+ - fuel: 764913
+mass: 118882
+ - fuel: 824323
+mass: 109486
+ - fuel: 879034
+mass: 135616
+ - fuel: 946809
+mass: 107771
+ - fuel: 1000661
+mass: 90105
+ - fuel: 1045682
+mass: 101182
+ - fuel: 1096241
+mass: 54766
+ - fuel: 1123595
+mass: 86615
+ - fuel: 1166871
+mass: 91261
+ - fuel: 1212469
+mass: 104321
+ - fuel: 1264596
+mass: 121607
+ - fuel: 1325367
+mass: 82197
+ - fuel: 1366434
+mass: 68626
+ - fuel: 1400716
+mass: 111255
+ - fuel: 1456310
+mass: 136080
+ - fuel: 1524318
+mass: 87509
+ - fuel: 1568042
+mass: 70125
+ - fuel: 1603074
+mass: 91180
+ - fuel: 1648632
+mass: 75925
+ - fuel: 1686563
+mass: 53492
+ - fuel: 1713279
+mass: 96853
+ - fuel: 1761672
+mass: 115081
+ - fuel: 1819179
+mass: 121621
+ - fuel: 1879956
+mass: 87461
+ - fuel: 1923653
+mass: 116030
+ - fuel: 1981635
+mass: 67335
+ - fuel: 2015273
+mass: 61282
+ - fuel: 2045884
+mass: 112424
+ - fuel: 2102062
+mass: 106785
+ - fuel: 2155423
+mass: 142243
+ - fuel: 2226513
+mass: 110564
+ - fuel: 2281763
+mass: 56983
+ - fuel: 2310224
+mass: 131420
+ - fuel: 2375901
+mass: 116534
+ - fuel: 2434134
+mass: 117376
+ - fuel: 2492790
+mass: 147088
+ - fuel: 2566300
+mass: 117628
+ - fuel: 2625081
+mass: 53964
+ - fuel: 2652034
+mass: 73163
+ - fuel: 2688584
+mass: 106736
+ - fuel: 2741919
+mass: 76217
+ - fuel: 2779993
+mass: 128590
+ - fuel: 2844255
+mass: 116138
+ - fuel: 2902290
+mass: 66841
+ - fuel: 2935680
+mass: 109265
+ - fuel: 2990277
+mass: 106285
+ - fuel: 3043387
+mass: 64013
+ - fuel: 3075361
+mass: 78357
+ - fuel: 3114507
+mass: 125640
+ - fuel: 3177296
+mass: 145761
+ - fuel: 3250143
+mass: 139426
+ - fuel: 3319824
+mass: 127558
+ - fuel: 3383569
+mass: 135076
+ - fuel: 3451072
+mass: 130989
+ - fuel: 3516533
+mass: 68054
+ - fuel: 3550529
+mass: 134669
+ - fuel: 3617829
+mass: 144482
+ - fuel: 3690037
+mass: 125870
+ - fuel: 3752937
+mass: 112818
+ - fuel: 3809313
+mass: 60193
+ - fuel: 3839379
+mass: 107162
+ - fuel: 3892930
+mass: 112557
+ - fuel: 3949176
+mass: 115972
+ - fuel: 4007130
+mass: 50890
+ - fuel: 4032544
+mass: 148652
+ - fuel: 4106835
+mass: 89547
+ - fuel: 4151576
+mass: 120228
+ - fuel: 4211658
+mass: 85967
+ - fuel: 4254610
+mass: 103941
+ - fuel: 4306548
+mass: 130915
+ - fuel: 4371971
+mass: 129496
+ - fuel: 4436685
+mass: 66401
+ - fuel: 4469855
+mass: 87018
+ - fuel: 4513334
+mass: 149539
+ - fuel: 4588070
+mass: 105847
+ - fuel: 4640962
+mass: 60981
+ - fuel: 4671421
+mass: 82610
+ - fuel: 4712693
+mass: 134396
+ - fuel: 4779858
+mass: 121711
+ - fuel: 4840679
+mass: 142655
+ - fuel: 4911973
+mass: 104400
+ - fuel: 4964140
+mass: 103752 - fuel: 5015983
+3345909
